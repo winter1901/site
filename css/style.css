@@ -1,0 +1,40 @@
+a {text-decoration: none;}
+
+ul {
+	list-style-type: none;
+}
+
+body {
+	margin: 0;
+}
+
+header {
+	background: #728a69;
+}
+
+
+.frame {
+	width: 960px;
+	margin: 0 auto;
+	border: 1px solid black;
+}
+
+.frame h1 {
+	text-align: center;
+}
+
+ul {
+	padding-left: 0;
+	width: 400px;
+}
+
+li {
+	display: inline;
+	margin-right: 20px;
+	padding: 5px;
+}
+
+a {
+	color: black;
+	font-size: 1.2em;
+}
