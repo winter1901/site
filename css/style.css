@@ -1,3 +1,4 @@
+
 a {text-decoration: none;}
 
 ul {
@@ -48,11 +49,12 @@ section {
 	font-family: inherit;
 	box-align: center;
 	min-height: 500px;
+	padding: 10px 20px;
 }
 
 #columnLeft {
 	float: left;
-    text-align: center;
+    -webkit-box-align: center;
 }
 
 #columnRight {
